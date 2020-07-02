@@ -77,7 +77,7 @@ If your lost go into edit mode to see what I'm referring to!
 <hr>
 
 ### Challenge 6: Add a .gif file to this document: 
-*(Hint: Check the GIFs Folder)* 
+*(Hint: Check the GIFs Folder, look for a file named Challenge_6.gif)* 
 
 ![ Wait a minute this is exactly what we did before](/GIFs/The_Fun_Begins_Now.gif)
 
