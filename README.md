@@ -19,7 +19,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- **Challenge 1: Edit these lines such that the appropriate tag has the appropriate size!**
+### Challenge 1: Edit these lines such that the appropriate tag has the appropriate size! 
 
 <hr>
 
@@ -32,7 +32,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- **Challenge 2: Edit these lines such that the items in the list below are ordered!** 
+### Challenge 2: Edit these lines such that the items in the list below are ordered! 
 
 <hr>
 
@@ -45,7 +45,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- **Challenge 3: Edit the following lines so that the text below appears:** *italic*
+### Challenge 3: Edit the following lines so that the text below appears: *italic*
 
 <hr>
 
@@ -53,7 +53,8 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- **Challenge 4: Find the hidden image and add it to this page!** *(Hint: Check the Images Folder)*
+### Challenge 4: Find the hidden image and add it to this page! 
+*(Hint: Check the Images Folder)*
 
 <hr>
 
@@ -65,7 +66,7 @@ If your lost go into edit mode to see what I'm referring to!
 
 <hr>
 
-- **Challenge 5: Embed an image using an URL but this time use the appropriate HTML < img > tag syntax instead** 
+### Challenge 5: Embed an image using an URL but this time use the appropriate HTML < img > tag syntax instead
 
 <hr>
 
@@ -75,17 +76,20 @@ If your lost go into edit mode to see what I'm referring to!
 
 <hr>
 
-- **Challenge 6: Add a .gif file to this document:** *(Hint: Check the GIFs Folder)* 
+### Challenge 6: Add a .gif file to this document: 
+*(Hint: Check the GIFs Folder)* 
 
 ![ Wait a minute this is exactly what we did before](/GIFs/The_Fun_Begins_Now.gif)
 
 # Stretch Challenge: 
 
-### The Cheat Sheet doesn't cover this:
+#### The Cheat Sheet doesn't cover this:
 
 <hr>
 
-- **Challenge 7: When inserting Linux or shell commands in a README it is convention to write the line as block element, and place a '$' symbol to let the reader know that this line is a bash terminal/shell command. Make the following line below a block element:** *(Hint: Try using the 'tab' key to indent the line)*
+### Challenge 7: When inserting Linux or shell commands in a README it is convention to write the line as block element, and place a '$' symbol to let the reader know that this line is a bash terminal/shell command. Make the following line below a block element: 
+
+*(Hint: Try using the 'tab' key to indent the line)*
 
 <hr>
 
@@ -99,7 +103,7 @@ $ sudo pacman -Syu
 
 <hr>
 
-- **Challenge 8: Add some ASCII Art without it being ruined. Make sure it is added as a multi line block element:** 
+### Challenge 8: Add some ASCII Art without it being ruined. Make sure it is added as a multi line block element:
 *(Hint: 3 back ticks before and 3 back ticks after with a line of spacing on top and bottom before pasting the ascii art!)*
 
 <hr>
@@ -113,7 +117,13 @@ PASTE YOUR ASCII ART HERE!
 *(Additional Hint: What is a back tick? It is also known as the '~' tilda key, 
 it is located above the tab key, and below the esc key on modern keybaords!)*
 
-- **Challenge 9: Proving why Challenge 8 is practical and useful. List the Directory Structure using the same technique from Challenge 8:** 
+<hr>
+
+### Challenge 9: Proving why Challenge 8 is practical and useful 
+
+<hr>
+
+- Task: List the Directory Structure using the same technique from Challenge 8: 
 
 On small scale repositories like this it's not such a big deal, but as your project grows over time, and as you get more collaborators onboard,
 eventually your code base will baloon and it will take of alot of effort and sanity checking to make sure everyone understands the file structure of your project! 
@@ -124,7 +134,7 @@ Thankfully the community has built tools like <a href="http://manpages.ubuntu.co
 ![Tree.gif](/GIFs/Tree.gif)
 
 
-###### Here is the file structure for this repository: 
+#### Here is the file structure for this repository make this into a block element so it doesn't look as messy: 
 .
 ├── Images
 │   ├── CTP_Logo.png
@@ -139,9 +149,21 @@ Thankfully the community has built tools like <a href="http://manpages.ubuntu.co
 
 <hr>
 
-## Congradulations! You've completed the guantlet, and used this workshop as an opportunity to expand your horizons! 
+### Challenge 10: Make this repository your own! 
 
 <hr>
+
+Add your own code in this repository and try to document your own code. Make sure to include any dependencies, and list the input parameters for each function and the return value of the corresponding function. You can organize this information in any way you see fit. Just make sure to assume the reader is a complete beginner, and has no idea what your code does, as such your README should have the most critical information here, in a visually appealing way that is easy to follow and understand. 
+
+
+<hr>
+
+# Congradulations! 
+
+You've completed the stretch guantlet, and used this workshop as an opportunity to expand your horizons! 
+
+<hr>
+
 
 ![Tree.gif](/GIFs/Dancing Cowboy Pizza Man.gif)
 
