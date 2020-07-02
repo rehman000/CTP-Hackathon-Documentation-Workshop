@@ -15,7 +15,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- Challenge 1: Edit these lines such that the appropriate tag has the appropriate size! 
+- **Challenge 1: Edit these lines such that the appropriate tag has the appropriate size!**
 
 <hr>
 
@@ -28,7 +28,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- <b>Challenge 2:</b> Edit these lines such that the items in the list below are ordered! 
+- **Challenge 2: Edit these lines such that the items in the list below are ordered!** 
 
 <hr>
 
@@ -40,4 +40,12 @@ To get started I want this to be an interactive excercise where you can referenc
 - item 6
 
 <hr>
+
+- **Challenge 3: Edit the following lines so that the text below appears:** *italic*
+
+<hr>
+
+1 Leetcode a day keeps unemployment away. Start finite first, then inductively expand. Focus on your Foundation, frameworks come and go! The best way to learn is to learn by doing, and try to break things, the more you mess around with the code the better your understanding will become! 
+
+
 
