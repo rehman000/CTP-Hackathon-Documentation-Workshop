@@ -175,5 +175,5 @@ Here are additional resources you can visit if you ever need to reference anythi
 <hr>
 
 
-![Stretch Challenge Completed](/GIFs/Stretch Challenge Completed.gif)
+![Completion.gif](/GIFs/Completion.gif)
 
