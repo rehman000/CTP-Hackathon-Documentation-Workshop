@@ -75,9 +75,9 @@ If your lost go into edit mode to see what I'm referring to!
 
 <hr>
 
-- **Challenge 6: Add a .gif file to this document:** *(Hint: Check the .GIFs Folder)* 
+- **Challenge 6: Add a .gif file to this document:** *(Hint: Check the GIFs Folder)* 
 
-![Wait a minute this what we did before](/GIFs/The_Fun_Begins_Now.gif)
+![ Wait a minute this is exactly what we did before](/GIFs/The_Fun_Begins_Now.gif)
 
 # Stretch Challenge: 
 
@@ -106,5 +106,42 @@ $ sudo pacman -Syu
 
 You may copy and paste the following <a href="https://www.twitchquotes.com/copypastas/3100">ASCII art</a>
 
+```
+PASTE YOUR ASCII ART HERE! 
+```
 
+*(Additional Hint: What is a back tick? It is also known as the '~' tilda key, 
+it is located above the tab key, and below the esc key on modern keybaords!)*
+
+- **Challenge 9: Proving why Challenge 8 is practical and useful. List the Directory Structure using the same technique from Challenge 8:** 
+
+On small scale repositories like this it's not such a big deal, but as your project grows over time, and as you get more collaborators onboard,
+eventually your code base will baloon and it will take of alot of effort and sanity checking to make sure everyone understands the file structure of your project! 
+Thankfully the community has built tools like <a href="http://manpages.ubuntu.com/manpages/trusty/man1/tree.1.html">tree</a>. Tree is a recursive directory listing program that produces a depth indented listing of files it cam be installed on Mac OS X, Windows (WSL), and Linux.
+
+#### How tree works: 
+
+![Tree.gif](/GIFs/Tree.gif)
+
+
+###### Here is the file structure for this repository: 
+.
+├── Images
+│   ├── CTP_Logo.png
+│   ├── MERN Stack Image.jpg
+│   
+├── GIFs
+│   ├── Tree.gif
+|   ├── Dancing Cowboy Pizza Man.gif
+|   ├── Challenge_6.gif
+|   
+
+
+<hr>
+
+## Congradulations! You've completed the guantlet, and used this workshop as an opportunity to expand your horizons! 
+
+<hr>
+
+![Tree.gif](/GIFs/Dancing Cowboy Pizza Man.gif)
 
