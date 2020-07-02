@@ -103,7 +103,7 @@ $ sudo pacman -Syu
 
 <hr>
 
-### Challenge 8: Add some ASCII Art without it being ruined. Make sure it is added as a multi line block element:
+### Challenge 8: Add some ASCII Art without it being ruined using Markdown syntax highlighting:
 *(Hint: 3 back ticks before and 3 back ticks after with a line of spacing on top and bottom before pasting the ascii art!)*
 
 <hr>
