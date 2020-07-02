@@ -2,7 +2,7 @@
 
 ## Documentation Workshop:
 
-A Guide to understanding why documentation is so important in software development, and how create really informative and awesome README's using GitHub's supported Mark Down notation!
+A Guide to understanding why documentation is so important in software development, and how to create really intuitive, informative, visually vibrant, and easy to understand README's using GitHub's flavored Markdown syntax! To ensure more people can contribute to your Open Source projects.  
 
 ## To clone this repository: 
 
