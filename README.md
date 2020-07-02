@@ -82,8 +82,8 @@ If your lost go into edit mode to see what I'm referring to!
 ![ Wait a minute this is exactly what we did before](/GIFs/The_Fun_Begins_Now.gif)
 
 # Stretch Challenge: 
-
-#### The Cheat Sheet doesn't cover this:
+### For those of you who wish to surpass their limits, and go beyond!  
+#### The Cheat Sheet might not cover this entirely:
 
 <hr>
 
@@ -114,8 +114,14 @@ You may copy and paste the following <a href="https://www.twitchquotes.com/copyp
 PASTE YOUR ASCII ART HERE! 
 ```
 
+Read and delete the line below when your editing it is not needed: 
+```
+$ echo One practical benefit of this is that when I have a really really long bash or shell command, and it might take up alot of lines, and it might be confusing to understand how to use it! But by making it a block element you can scroll through this line! :D 
+```
+
 *(Additional Hint: What is a back tick? It is also known as the '~' tilda key, 
-it is located above the tab key, and below the esc key on modern keybaords!)*
+it is located above the tab key, and below the esc key on modern keybaords! 
+The back tick symbol looks like this: **`** )*
 
 <hr>
 
@@ -142,7 +148,7 @@ Thankfully the community has built tools like <a href="http://manpages.ubuntu.co
 │   
 ├── GIFs
 │   ├── Tree.gif
-|   ├── Dancing Cowboy Pizza Man.gif
+|   ├── Stretch Challenge Completed.gif
 |   ├── Challenge_6.gif
 |   
 
@@ -158,12 +164,16 @@ Add your own code in this repository and try to document your own code. Make sur
 
 <hr>
 
-# Congradulations! 
+# Congratulations! 
 
 You've completed the stretch guantlet, and used this workshop as an opportunity to expand your horizons! 
+
+Here are additional resources you can visit if you ever need to reference anything aside from this repository!  :)
+
+    https://guides.github.com/features/mastering-markdown/
 
 <hr>
 
 
-![Tree.gif](/GIFs/Dancing Cowboy Pizza Man.gif)
+![Stretch Challenge Completed.gif](/GIFs/Stretch Challenge Completed.gif)
 
