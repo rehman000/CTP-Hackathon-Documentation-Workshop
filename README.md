@@ -53,7 +53,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- **Challenge 4: Find the hidden image and add it to this page!** *(hint: Check the Images Folder)*
+- **Challenge 4: Find the hidden image and add it to this page!** *(Hint: Check the Images Folder)*
 
 <hr>
 
@@ -75,8 +75,36 @@ If your lost go into edit mode to see what I'm referring to!
 
 <hr>
 
-- **Challenge 6: Add a .gif file to this document: ** 
+- **Challenge 6: Add a .gif file to this document:** *(Hint: Check the .GIFs Folder)* 
 
-- **Challenge 6: Add a .gif file to this document: **
+![Wait a minute this what we did before](/GIFs/The_Fun_Begins_Now.gif)
 
-- **Challenge 6: Add a .gif file to this document: **
+# Stretch Challenge: 
+
+### The Cheat Sheet doesn't cover this:
+
+<hr>
+
+- **Challenge 7: When inserting Linux or shell commands in a README it is convention to write the line as block element, and place a '$' symbol to let the reader know that this line is a bash terminal/shell command. Make the following line below a block element:** *(Hint: Try using the 'tab' key to indent the line)*
+
+<hr>
+
+- Ubuntu 
+
+$ sudo apt-get update
+
+- Arch 
+
+$ sudo pacman -Syu
+
+<hr>
+
+- **Challenge 8: Add some ASCII Art without it being ruined. Make sure it is added as a multi line block element:** 
+*(Hint: 3 back ticks before and 3 back ticks after with a line of spacing on top and bottom before pasting the ascii art!)*
+
+<hr>
+
+You may copy and paste the following <a href="https://www.twitchquotes.com/copypastas/3100">ASCII art</a>
+
+
+
