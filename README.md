@@ -174,6 +174,4 @@ Here are additional resources you can visit if you ever need to reference anythi
 
 <hr>
 
-
 ![Completion.gif](/GIFs/Completion.gif)
-
