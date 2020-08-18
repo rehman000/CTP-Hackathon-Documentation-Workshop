@@ -58,7 +58,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-![Your Image Should be here](/Images/Insert_the_CTP_Logo.png)
+![CTP Logo](/Images/CTP_Logo.jpg)
 
 **Note:** You can also embed images like this using URL's instead of the local file location! 
 Insert the URL inside the (Parenthesis) rather than the file location. 
@@ -72,7 +72,7 @@ If your lost go into edit mode to see what I'm referring to!
 
 **Recall:** The < img > tag in HTML is self closing! 
 
-<img src="wow HTML syntax works too? It's a markdown language as well!" style="You can set your desired dimensions here!" />
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGRQqSW5YBPsA/company-logo_200_200/0?e=2159024400&v=beta&t=AhFVxM4WnWuUc3nVbk9QrCmYx5MVc5OEWl6MS60vJ9E" />
 
 <hr>
 
