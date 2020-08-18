@@ -79,7 +79,7 @@ If your lost go into edit mode to see what I'm referring to!
 ### Challenge 6: Add a .gif file to this document: 
 *(Hint: Check the GIFs Folder, look for a file named Challenge_6.gif)* 
 
-![ Wait a minute this is exactly what we did before](/GIFs/The_Fun_Begins_Now.gif)
+![ GIF File](/GIFs/Challenge_6.gif)
 
 # Stretch Challenge: 
 ### For those of you who wish to surpass their limits, and go beyond!  
