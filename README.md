@@ -36,12 +36,12 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-- item 1
-- item 2
-- item 3
-- item 4
-- item 5
-- item 6
+1. item 1
+2. item 2
+3. item 3
+4. item 4
+5. item 5
+6. item 6
 
 <hr>
 
@@ -49,7 +49,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-1 Leetcode a day keeps unemployment away. Start finite first, then inductively expand. Focus on your Foundation, frameworks come and go! The best way to learn is to learn by doing, and try to break things, the more you mess around with the code the better your understanding will become! 
+*1 Leetcode a day keeps unemployment away. Start finite first, then inductively expand. Focus on your Foundation, frameworks come and go! The best way to learn is to learn by doing, and try to break things, the more you mess around with the code the better your understanding will become!* 
 
 <hr>
 
