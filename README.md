@@ -133,7 +133,7 @@ The back tick symbol looks like this: **`** )*
 
 On small scale repositories like this it's not such a big deal, but as your project grows over time, and as you get more collaborators onboard,
 eventually your code base will baloon and it will take of alot of effort and sanity checking to make sure everyone understands the file structure of your project! 
-Thankfully the community has built tools like <a href="http://manpages.ubuntu.com/manpages/trusty/man1/tree.1.html">tree</a>. Tree is a recursive directory listing program that produces a depth indented listing of files it cam be installed on Mac OS X, Windows (WSL), and Linux.
+Thankfully the community has built tools like <a href="http://manpages.ubuntu.com/manpages/trusty/man1/tree.1.html">tree</a>. Tree is a recursive directory listing program that produces a depth indented listing of files it can be installed on Mac OS X, Windows (WSL), and Linux.
 
 #### How tree works: 
 
