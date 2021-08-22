@@ -23,12 +23,12 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-# Change this to an h1 tag
-## Change this to an h2 tag
-### Change this to an h3 tag
-#### Change this to an h4 tag
-##### Change this to an h5 tag
-###### Change this to an h6 tag
+###### Change this to an h1 tag
+##### Change this to an h2 tag
+#### Change this to an h3 tag
+### Change this to an h4 tag
+## Change this to an h5 tag
+# Change this to an h6 tag
 
 <hr>
 
@@ -36,12 +36,12 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-1. item 1
-2. item 2
-3. item 3
-4. item 4
-5. item 5
-6. item 6
+- item 1
+- item 2
+- item 3
+- item 4
+- item 5
+- item 6
 
 <hr>
 
@@ -49,7 +49,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-*1 Leetcode a day keeps unemployment away. Start finite first, then inductively expand. Focus on your Foundation, frameworks come and go! The best way to learn is to learn by doing, and try to break things, the more you mess around with the code the better your understanding will become!* 
+1 Leetcode a day keeps unemployment away. Start finite first, then inductively expand. Focus on your Foundation, frameworks come and go! The best way to learn is to learn by doing, and try to break things, the more you mess around with the code the better your understanding will become! 
 
 <hr>
 
@@ -58,7 +58,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-![CTP Logo](/Images/CTP_Logo.jpg)
+![CTP Logo](/Ima)
 
 **Note:** You can also embed images like this using URL's instead of the local file location! 
 Insert the URL inside the (Parenthesis) rather than the file location. 
@@ -72,14 +72,23 @@ If your lost go into edit mode to see what I'm referring to!
 
 **Recall:** The < img > tag in HTML is self closing! 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGRQqSW5YBPsA/company-logo_200_200/0?e=2159024400&v=beta&t=AhFVxM4WnWuUc3nVbk9QrCmYx5MVc5OEWl6MS60vJ9E" />
+[//]: # (This is how you add comments inside Markdown! This will not be visible or rendered!)
+[//]: # (NOTE: Each website has it's own markdown implementation, however this seems to be the most compatible way to write comments on markdown)
+[//]: # (Because the "#" is a valid part of a URL.)
+
+[//]: # (You can read more here: https://stackoverflow.com/questions/4823468/comments-in-markdown)
+
+[//]: # (Leaving this link here for easy access!)
+[//]: # (https://media-exp1.licdn.com/dms/image/C4D0BAQGRQqSW5YBPsA/company-logo_200_200/0?e=2159024400&v=beta&t=AhFVxM4WnWuUc3nVbk9QrCmYx5MVc5OEWl6MS60vJ9E)
+
+<img src="" />
 
 <hr>
 
 ### Challenge 6: Add a .gif file to this document: 
 *(Hint: Check the GIFs Folder, look for a file named Challenge_6.gif)* 
 
-![ GIF File](/GIFs/Challenge_6.gif)
+![ GIF File](/GI)
 
 # Stretch Challenge: 
 ### For those of you who wish to surpass their limits, and go beyond!  
@@ -94,12 +103,10 @@ If your lost go into edit mode to see what I'm referring to!
 <hr>
 
 - Ubuntu 
-
-        $ sudo apt-get update
+sudo apt-get update
 
 - Arch 
-
-        $ sudo pacman -Syu
+sudo pacman -Syu
 
 <hr>
 
@@ -109,25 +116,6 @@ If your lost go into edit mode to see what I'm referring to!
 <hr>
 
 You may copy and paste the following <a href="https://www.twitchquotes.com/copypastas/3100">ASCII art</a>
-
-```
-
-⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
-⣿⣿⣿⣿⣿⣿⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⣿
-⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿
-⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
-
-```
 
 
 *(Additional Hint: What is a back tick? It is also known as the '~' tilda key, 
@@ -153,7 +141,6 @@ Thankfully the community has built tools like <a href="http://manpages.ubuntu.co
 
 #### Here is the file structure for this repository make this into a block element so it doesn't look as messy: 
 
-```
 .
 ├── Images
 │   ├── CTP_Logo.png
@@ -165,7 +152,6 @@ Thankfully the community has built tools like <a href="http://manpages.ubuntu.co
 |   ├── Challenge_6.gif
 |  
 
-```
 
 <hr>
 
