@@ -58,7 +58,7 @@ To get started I want this to be an interactive excercise where you can referenc
 
 <hr>
 
-![CTP Logo](/Ima)
+![CTP Logo](/Images/CTP_Logo.jpg)
 
 **Note:** You can also embed images like this using URL's instead of the local file location! 
 Insert the URL inside the (Parenthesis) rather than the file location. 
@@ -81,7 +81,7 @@ If your lost go into edit mode to see what I'm referring to!
 [//]: # (Leaving this link here for easy access!)
 [//]: # (https://media-exp1.licdn.com/dms/image/C4D0BAQGRQqSW5YBPsA/company-logo_200_200/0?e=2159024400&v=beta&t=AhFVxM4WnWuUc3nVbk9QrCmYx5MVc5OEWl6MS60vJ9E)
 
-<img src="" />
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGRQqSW5YBPsA/company-logo_200_200/0?e=2159024400&v=beta&t=AhFVxM4WnWuUc3nVbk9QrCmYx5MVc5OEWl6MS60vJ9E" />
 
 <hr>
 
