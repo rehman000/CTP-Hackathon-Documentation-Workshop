@@ -88,7 +88,8 @@ If your lost go into edit mode to see what I'm referring to!
 ### Challenge 6: Add a .gif file to this document: 
 *(Hint: Check the GIFs Folder, look for a file named Challenge_6.gif)* 
 
-![ GIF File](/GI)
+ 
+![GIF File](/GIFs/Challenge_6.gif)
 
 # Stretch Challenge: 
 ### For those of you who wish to surpass their limits, and go beyond!  
@@ -103,10 +104,12 @@ If your lost go into edit mode to see what I'm referring to!
 <hr>
 
 - Ubuntu 
-sudo apt-get update
+        
+        sudo apt-get update
 
 - Arch 
-sudo pacman -Syu
+        
+        sudo pacman -Syu
 
 <hr>
 
@@ -121,6 +124,23 @@ You may copy and paste the following <a href="https://www.twitchquotes.com/copyp
 *(Additional Hint: What is a back tick? It is also known as the '~' tilda key, 
 it is located above the tab key, and below the esc key on modern keybaords! 
 The back tick symbol looks like this: **`** )*
+
+```
+⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
+⣿⣿⣿⣿⣿⣿⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⣿
+⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿
+⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
+```
 
 <hr>
 
@@ -141,6 +161,7 @@ Thankfully the community has built tools like <a href="http://manpages.ubuntu.co
 
 #### Here is the file structure for this repository make this into a block element so it doesn't look as messy: 
 
+```
 .
 ├── Images
 │   ├── CTP_Logo.png
@@ -151,7 +172,7 @@ Thankfully the community has built tools like <a href="http://manpages.ubuntu.co
 |   ├── Stretch Challenge Completed.gif
 |   ├── Challenge_6.gif
 |  
-
+```
 
 <hr>
 
